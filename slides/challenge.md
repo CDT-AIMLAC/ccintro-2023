@@ -38,7 +38,7 @@
 
 ## Renewable Energy at AIMLAC HQ
 
-![E3120 Wind Turbine](images/e3210.jpg)
+<div id="left" data-markdown>
 
 * 6x Endurance E3120 50 kW wind turbines
 * 1400x LG 335 W Mono Neon2 A5 solar panels
@@ -46,6 +46,14 @@
   * South facing
 * 50 amp/11,000 volt (550 kW) grid connection
 * No battery storage
+
+</div>
+
+<div id="right" data-markdown>
+
+![E3120 Wind Turbine](images/e3120.jpg)
+
+</div>
 
 -
 
@@ -82,13 +90,21 @@
 
 ## Renewable Energy 101&mdash;Wind Turbines
 
-![Wind Turbine power curve](images/wind_powercurve.png)
+<div id="left" data-markdown>
 
 * Wind turbines generate electricity proportionally to wind speed.
   * Cuts off at maximum speed
   * Might even drop off slightly
   * Really strong winds might require stopping the turbine
 * Find the data sheet of the wind turbine for exact relationship.
+
+</div>
+
+<div id="right" data-markdown>
+
+![Wind Turbine power curve](images/wind_powercurve.png)
+
+</div>
 
 -
 
@@ -101,7 +117,7 @@
 * Power output reduced when sun isn't directly pointed at the panel
   * Forms a sine curve across the day
 * Cloudy days have much lower output.
-  ** 10-25% of sunny output
+  * 10-25% of sunny output
 
 -
 
@@ -151,9 +167,9 @@
 
 * Produce a 2-page project proposal by November 1st
   * See document for more details
-  * Include costings for your team (note: we aren't really paying you!**
+  * Include costings for your team (note\: we aren't really paying you)
   * Reviewer's comments returned mid-November
-* Present this to the customer $\sim$ 1 week after reviewer's comments
+* Present this to the customer about 1 week after reviewer's comments
 
 -
 
