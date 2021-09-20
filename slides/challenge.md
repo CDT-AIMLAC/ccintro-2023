@@ -82,7 +82,7 @@
 
 ## Renewable Energy 101&mdash;Wind Turbines
 
-![Wind Turbine power curve](wind_powercurve.png)
+![Wind Turbine power curve](images/wind_powercurve.png)
 
 * Wind turbines generate electricity proportionally to wind speed.
   * Cuts off at maximum speed
@@ -95,7 +95,7 @@
 ## Renewable Energy 101&mdash;Solar Power
 
 <!-- TODO: add images -->
-![Solar Panel Power Curve](solar_powercurve.png)
+![Solar Panel Power Curve](images/solar_powercurve.png)
 
 * Generate electricity in proportion to the amount of sunlight hitting them.
 * Power output reduced when sun isn't directly pointed at the panel
