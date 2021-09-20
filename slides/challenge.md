@@ -21,12 +21,14 @@
 * All produced workable solutions, but none quite satisfied the Customer's needs
 * Presentations on each of the solutions this afternoon
 * You will take on their solutions and build on them
+* There will be additional features needed
 
 -
 
 ## The (fictitious) AIMLAC HQ
 
-<!-- TODO: add images -->
+![AIMLAC HQ Location](images/aimlac-hq-map1.png)
+![AIMLAC HQ Location wide](images/aimlac-hq-map2.png)
 
 * 2.5km west of Llanwrtyd Wells railway station in mid Wales
 * Mountaintop location, 470m above sea level, 200m above valley floor
@@ -36,7 +38,7 @@
 
 ## Renewable Energy at AIMLAC HQ
 
-<!-- TODO: add images -->
+![E3120 Wind Turbine](images/e3210.jpg)
 
 * 6x Endurance E3120 50 kW wind turbines
 * 1400x LG 335 W Mono Neon2 A5 solar panels
@@ -59,13 +61,14 @@
 * PCs and office equipment: 10 kW
 * Lighting + Misc: 20kW
 * Building typically occupied 9:00am to 5:30pm, Monday to Friday
-  * Excluding bank holidays and December 21st-31st.
+  * Excluding bank holidays and December 22nd to January 3rd.
 
 -
 
 ## Renewable energy 101&mdash;Units
 
 <!-- TODO: add images -->
+
 
 * Amps = number of electrons moving per second
 * Volts = electrical “Pressure” moving electrons
@@ -79,6 +82,8 @@
 
 ## Renewable Energy 101&mdash;Wind Turbines
 
+![Wind Turbine power curve](wind_powercurve.png)
+
 * Wind turbines generate electricity proportionally to wind speed.
   * Cuts off at maximum speed
   * Might even drop off slightly
@@ -90,6 +95,7 @@
 ## Renewable Energy 101&mdash;Solar Power
 
 <!-- TODO: add images -->
+![Solar Panel Power Curve](solar_powercurve.png)
 
 * Generate electricity in proportion to the amount of sunlight hitting them.
 * Power output reduced when sun isn't directly pointed at the panel
@@ -143,7 +149,7 @@
 
 ## Deliverables
 
-* Produce a 2-page project proposal by November 1
+* Produce a 2-page project proposal by November 1st
   * See document for more details
   * Include costings for your team (note: we aren't really paying you!**
   * Reviewer's comments returned mid-November
