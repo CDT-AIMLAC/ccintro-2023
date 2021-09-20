@@ -122,7 +122,7 @@
 ## Team allocation
 
 * We're trying to even out skills across the teams
-* Quick Google Form <!--TODO: LINK -->
+* Quick Google Form: <a href="https://bit.ly/aimlac-survey-2021">https://bit.ly/aimlac-survey-2021</a>
 
 -
 
