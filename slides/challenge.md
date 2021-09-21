@@ -139,6 +139,7 @@
 
 * We're trying to even out skills across the teams
 * Quick Google Form: <a href="https://bit.ly/aimlac-survey-2021">https://bit.ly/aimlac-survey-2021</a>
+* Longer anonymous survey: <a href="https://bit.ly/aimlac-long-survey-2021">https://bit.ly/aimlac-long-survey-2021</a>
 
 -
 
