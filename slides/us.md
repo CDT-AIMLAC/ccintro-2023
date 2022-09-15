@@ -4,8 +4,8 @@
 
 ## Who are we?
 
-* Dr Ed Bennett: Supercomputing Wales RSE and STFC RSE Fellow, Swansea University
-* Dr Michele Mesiti: Supercomputing Wales RSE and EXALAT RSE, Swansea University
+* Dr Ed Bennett: STFC RSE Fellow, Swansea University
+* Julian Lenz: Supercomputing Wales RSE and Reproducibility-focused RSE, Swansea University
 * Dr Colin Sauzé: Supercomputing Wales RSE, Aberystwyth University
 
 -
@@ -18,9 +18,9 @@
   * Provide advice and support for researchers developing software
   * Develop and help optimise research software
   * Provide training on research software techniques for new and long-standing researchers
-* All five universities have centralised RSE resources. Contacts:
+* The vast majority of universities have centralised RSE resources. Contacts:
   * Aberystwyth: Dr Colin Sauzé
-  * Bangor: Dr Aaron Owen
+  * Bangor: Aaron Owen
   * Bristol: Dr Christopher Woods, <a href="https://twitter.com/BristolRSE">@BristolRSE</a>
-  * Cardiff: <a href="https://www.cardiff.ac.uk/people/view/978579-oneill-clare">Claire O'Neill</a>
+  * Cardiff: <a href="https://www.cardiff.ac.uk/people/view/483552-roderick-catherine">Cath Roderick</a>
   * Swansea: Dr Ed Bennett, <a href="https://twitter.com/sa2c_swansea">@sa2c_swansea</a>
