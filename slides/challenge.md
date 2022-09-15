@@ -17,9 +17,9 @@
 
 ## Context
 
-* Last year, three teams were hired to do this
-* All produced workable solutions, but none quite satisfied the Customer's needs
-* Presentations on each of the solutions this afternoon
+* Last year, two teams were hired to do this
+* Both solutions had positives, but neither quite satisfied the Customer's needs
+* Presentations on each of the solutions tomorrow afternoon
 * You will take on their solutions and build on them
 * There will be additional features needed
 
@@ -164,7 +164,7 @@
 
 -
 
-## Deliverables
+<!--## Deliverables
 
 * Produce a 2-page project proposal by November 1st
   * See document for more details
@@ -172,7 +172,7 @@
   * Reviewer's comments returned mid-November
 * Present this to the customer about 1 week after reviewer's comments
 
--
+- -->
 
 ## Set up your teams
 

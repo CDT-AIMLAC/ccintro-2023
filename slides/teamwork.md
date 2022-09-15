@@ -22,8 +22,8 @@
 
 ## What you'll be doing
 
-* Project running until May
-  * Presented at end of year event in June
+* Project running through your first year
+  * Presented at this event next year
 * A few hours per week of work
 * Regular meeting with a "customer"
 * Help sessions with RSEs
