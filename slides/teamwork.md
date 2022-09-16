@@ -30,21 +30,9 @@
 
 -
 
-## Zoom things
-
-* Please mute when you’re not speaking
-* If you’re comfortable having a camera on, it’s nice to see who we’re talking to
-* The _Participants_ window has options “raise hand”, “yes”, “no”, etc. that we will use
-  * Select “Yes” now
-* Breakout rooms and tables
-  * Each one gets an Etherpad: https://etherpad.wikimedia.org/p/aimlac-2021-TEAMNUMBER
-  * We'll let you know when to go and come back
-
--
-
 ## Introductions
 
-* Within your tables/breakout rooms:
+* Within your tables:
   * Name
   * PhD topic
   * What were you doing this time last year?
@@ -63,8 +51,8 @@
 ## What makes teams challenging?
 
 * What difficulties can you see with delivering software as a small team, responding to customer needs?
-* Discuss in tables/breakout rooms
-* Write thoughts down on the Etherpad
+* Discuss in tables
+* Write thoughts down
 * 10 minutes
 
 -
@@ -84,13 +72,13 @@
 
 ![Slack logo](images/slack-logo.svg)
 
-![Screen shot of Slack](images/slack.png)
+![Screen shot of Slack](images/slack.png)  <!-- .element: width="900px" -->
 
 -
 
-![GitHub logo](images/github-logo.png)
+![GitHub logo](images/github-logo.png) <!-- .element: width="400px" -->
 
-![Screen shot of GitHub projects](images/github-projects.png)
+![Screen shot of GitHub projects](images/github-projects.png) <!-- .element: width="900px" -->
 
 -
 
@@ -114,11 +102,13 @@
   }
 </style>
 
+<div id="left" data-markdown>
+
 1. **Meet the customer**
 2. Hold a planning meeting
   * Agree tasks
   * Add tasks to your task list as "waiting"
-  * Estimate and note task length (small/medium/large)
+  * Estimate and note task length (S/M/L)
   * Reflect on the last iteration
 3. Choose a task (waiting or review)
 4. Self-assign the task
@@ -126,12 +116,16 @@
 6. Complete the task
 7. Move the task onwards
 
-<br>
+</div>
+
+<div id="right" data-markdown>
 
 * Loop steps 3&ndash;7
 * **Meet with your technical contact**
 * Have a "daily standup" at agreed intervals
 * Call each iteration of this a "sprint"
+
+</div>
 
 -
 

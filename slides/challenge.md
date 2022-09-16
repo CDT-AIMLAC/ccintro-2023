@@ -51,7 +51,7 @@
 
 <div id="right" data-markdown>
 
-![E3120 Wind Turbine](images/e3120.jpg)
+![E3120 Wind Turbine](images/e3120.jpg) <!-- .element width="200px" height="250px" -->
 
 </div>
 
@@ -123,7 +123,7 @@
 
 ## How we will be working
 
-* Teams of 5-6 people
+* Teams of 3&ndash;4 people
   * We will allocate you
 * Monthly customer meeting
   * One RSE acting as the customer, it might change who
@@ -138,19 +138,17 @@
 ## Team allocation
 
 * We're trying to even out skills across the teams
-* Quick Google Form: <a href="https://bit.ly/aimlac-survey-2021">https://bit.ly/aimlac-survey-2021</a>
-* Longer anonymous survey: <a href="https://bit.ly/aimlac-long-survey-2021">https://bit.ly/aimlac-long-survey-2021</a>
+  * Google Form: <a href="https://bit.ly/3BI3lwO">https://bit.ly/3BI3lwO</a>
 
 -
 
 ## Teams Icebreaker
 
 * Join up with your team now
-  * If any are remote, loop them in with a Zoom call
 * Go around the group and introduce yourselves
   * Name, University, PhD topics
 * Let the group know what programming languages/technologies you have knowledge/experience office
-* Suggest a name for your group
+* Suggest a name for your team
 
 -
 
@@ -183,6 +181,6 @@
 * Setup some co-working resources:
   * Slack
     * Make a private channel/workspace for yourselves and a channel on AIMLAC Slack for customer interaction
-  * Trello
   * Github
+    * Make accounts, an organisation, and a project
   * Anything else you think you might need
