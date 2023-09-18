@@ -5,8 +5,8 @@
 ## Who are we?
 
 * Dr Ed Bennett: STFC RSE Fellow, Swansea University
-* Julian Lenz: Supercomputing Wales RSE and Reproducibility-focused RSE, Swansea University
-* Dr Colin Sauzé: Supercomputing Wales RSE, Aberystwyth University
+* Julian Lenz: ExaTEPP RSE and Reproducibility-focused RSE, Swansea University
+* Cory Thomas: Supercomputing Wales RSE, Aberystwyth University
 
 -
 
@@ -16,11 +16,11 @@
 * One foot in research, one foot in software engineering
 * RSEs:
   * Provide advice and support for researchers developing software
-  * Develop and help optimise research software
+  * Develop and help improve research software
   * Provide training on research software techniques for new and long-standing researchers
-* The vast majority of universities have centralised RSE resources. Contacts:
-  * Aberystwyth: Dr Colin Sauzé
+* Most universities have RSE resources available in some form. Contacts:
+  * Aberystwyth: Cory Thomas
   * Bangor: Aaron Owen
-  * Bristol: Dr Christopher Woods, <a href="https://twitter.com/BristolRSE">@BristolRSE</a>
+  * Bristol: [Dr Christopher Woods](https://www.bristol.ac.uk/acrc/research-software-engineering/)
   * Cardiff: <a href="https://www.cardiff.ac.uk/advanced-research-computing">ARCCA</a>
-  * Swansea: Dr Ed Bennett, <a href="https://twitter.com/sa2c_swansea">@sa2c_swansea</a>
+  * Swansea: Dr Ed Bennett, SA2C

@@ -19,16 +19,16 @@
 
 * Last year, two teams were hired to do this
 * Both solutions had positives, but neither quite satisfied the Customer's needs
-* Presentations on each of the solutions tomorrow afternoon
-* You will take on their solutions and build on them
-* There will be additional features needed
+* Presentations on each of these solutions tomorrow afternoon
+* You will start from a minimal stub solution
+* Your solutions will be ranked on a leaderboard
 
 -
 
 ## The (fictitious) AIMLAC HQ
 
-![AIMLAC HQ Location](images/aimlac-hq-map1.png)
-![AIMLAC HQ Location wide](images/aimlac-hq-map2.png)
+![AIMLAC HQ Location](images/aimlac-hq-map1.png) <!-- .element height="450px" -->
+![AIMLAC HQ Location wide](images/aimlac-hq-map2.png) <!-- .element height="450px" -->
 
 * 2.5km west of Llanwrtyd Wells railway station in mid Wales
 * Mountaintop location, 470m above sea level, 200m above valley floor
@@ -138,7 +138,7 @@
 ## Team allocation
 
 * We're trying to even out skills across the teams
-  * Google Form: <a href="https://bit.ly/3BI3lwO">https://bit.ly/3BI3lwO</a>
+  * Google Form: [bit.ly/46iBG1J](https://bit.ly/46iBG1J)
 
 -
 
@@ -147,7 +147,7 @@
 * Join up with your team now
 * Go around the group and introduce yourselves
   * Name, University, PhD topics
-* Let the group know what programming languages/technologies you have knowledge/experience office
+* Let the group know what programming languages/technologies you have knowledge/experience of
 * Suggest a name for your team
 
 -
